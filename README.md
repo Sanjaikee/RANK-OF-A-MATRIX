@@ -28,7 +28,7 @@ rank=np.linalg.matrix_rank(my_matrix)
 print(rank)
 ```
 ## Output:
-![WhatsApp Image 2023-12-15 at 08 21 02_3f6a4787](https://github.com/Sanjaikee/RANK-OF-A-MATRIX/assets/150231888/e3a09c88-ff0f-4912-be8c-528153c704d5)
+![image](https://github.com/Sanjaikee/RANK-OF-A-MATRIX/assets/150231888/884eec9f-240e-458e-87ef-dbcaff85265d)
 
 
 
